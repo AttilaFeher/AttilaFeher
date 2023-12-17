@@ -1,7 +1,3 @@
-Hi there, I'm Attila Feher! 🇭🇺 🇷🇸 🇬🇧 🇩🇪
+Meet me, a multilingual web designer and developer fueled by ambition and a strong work ethic. Fluent in Hungarian, Serbian, English, and German, I bridge cultures and codes seamlessly.
 
-I'm Attila Feher. I'm a Front-End  Developer. I created my Digital Agency In 2022, called Medianeat.
-
-Tech Skills: React, Adobe Creative, Figma, Wordpress
-
-Wanna know more about me? Check out my website.
+I thrive on challenges, channeling my dedication into crafting innovative web experiences that transcend language barriers. Let's bring your digital vision to life, with a touch of ambition and a commitment to excellence.
